@@ -1,2 +1,3 @@
 # PROJECT1
-Energy Consumption Analysis of Programming Languages
+calculation of Runnning time of any program in c
+
